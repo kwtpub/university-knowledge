@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="900" height="1000" viewBox="88 0 900 1000">
+<path fill="none" stroke="gray" d="M188.2,892h749"/>
+<path fill="none" stroke="#000" d="M188.2,892h27 M937.2,892h-27"/>
+<text transform="translate(133.1118 905.5002)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">-6</text>
+<path fill="none" stroke="gray" d="M188.2,786.8h749"/>
+<path fill="none" stroke="#000" d="M188.2,786.8h27 M937.2,786.8h-27"/>
+<text transform="translate(133.1118 800.3)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">-4</text>
+<path fill="none" stroke="gray" d="M188.2,681.5h749"/>
+<path fill="none" stroke="#000" d="M188.2,681.5h27 M937.2,681.5h-27"/>
+<text transform="translate(133.1118 695.0002)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">-2</text>
+<path fill="none" stroke="gray" d="M188.2,576.3h749"/>
+<path fill="none" stroke="#000" d="M188.2,576.3h27 M937.2,576.3h-27"/>
+<text transform="translate(145.1001 589.8)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">0</text>
+<path fill="none" stroke="gray" d="M188.2,471.1h749"/>
+<path fill="none" stroke="#000" d="M188.2,471.1h27 M937.2,471.1h-27"/>
+<text transform="translate(145.1001 484.5999)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">2</text>
+<path fill="none" stroke="gray" d="M188.2,365.9h749"/>
+<path fill="none" stroke="#000" d="M188.2,365.9h27 M937.2,365.9h-27"/>
+<text transform="translate(145.1001 379.3997)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">4</text>
+<path fill="none" stroke="gray" d="M188.2,260.6h749"/>
+<path fill="none" stroke="#000" d="M188.2,260.6h27 M937.2,260.6h-27"/>
+<text transform="translate(145.1001 274.0999)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">6</text>
+<path fill="none" stroke="gray" d="M188.2,155.4h749"/>
+<path fill="none" stroke="#000" d="M188.2,155.4h27 M937.2,155.4h-27"/>
+<text transform="translate(145.1001 168.8997)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">8</text>
+<path fill="none" stroke="gray" d="M188.2,50.2h749"/>
+<path fill="none" stroke="#000" d="M188.2,50.2h27 M937.2,50.2h-27"/>
+<text transform="translate(127.1001 63.6995)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">10</text>
+<path fill="none" stroke="gray" d="M188.2,892V50.2"/>
+<path fill="none" stroke="#000" d="M188.2,892v-27 M188.2,50.2v27"/>
+<text transform="translate(173.2061 959.5002)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">-8</text>
+<path fill="none" stroke="gray" d="M281.8,892V50.2"/>
+<path fill="none" stroke="#000" d="M281.8,892v-27 M281.8,50.2v27"/>
+<text transform="translate(266.8057 959.5002)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">-6</text>
+<path fill="none" stroke="gray" d="M375.5,892V50.2"/>
+<path fill="none" stroke="#000" d="M375.5,892v-27 M375.5,50.2v27"/>
+<text transform="translate(360.5059 959.5002)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">-4</text>
+<path fill="none" stroke="gray" d="M469.1,892V50.2"/>
+<path fill="none" stroke="#000" d="M469.1,892v-27 M469.1,50.2v27"/>
+<text transform="translate(454.106 959.5002)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">-2</text>
+<path fill="none" stroke="gray" d="M562.7,892V50.2"/>
+<path fill="none" stroke="#000" d="M562.7,892v-27 M562.7,50.2v27"/>
+<text transform="translate(553.7002 959.5002)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">0</text>
+<path fill="none" stroke="gray" d="M656.3,892V50.2"/>
+<path fill="none" stroke="#000" d="M656.3,892v-27 M656.3,50.2v27"/>
+<text transform="translate(647.2998 959.5002)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">2</text>
+<path fill="none" stroke="gray" d="M750,892v-27 M750,811V50.2"/>
+<path fill="none" stroke="#000" d="M750,892v-27 M750,50.2v27"/>
+<text transform="translate(741 959.5002)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">4</text>
+<path fill="none" stroke="gray" d="M843.6,892v-27 M843.6,811V50.2"/>
+<path fill="none" stroke="#000" d="M843.6,892v-27 M843.6,50.2v27"/>
+<text transform="translate(834.5996 959.5002)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">6</text>
+<path fill="none" stroke="gray" d="M937.2,892V50.2"/>
+<path fill="none" stroke="#000" d="M937.2,892v-27 M937.2,50.2v27"/>
+<text transform="translate(928.2002 959.5002)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">8</text>
+<path fill="none" stroke="#000" stroke-width="2" d="M188.2,576.3h749 M562.7,892V50.2"/>
+<path fill="none" stroke="#000" d="M188.2,50.2V892h749V50.2H188.2z"/>
+<text transform="translate(705.707 851.5002)" font-family="Nimbus Roman No9 L, Times, serif" font-size="36">x²</text>
+<path fill="none" stroke="#000" d="M188.2,50.2V892h749V50.2H188.2z"/>
+<g>
+	<line fill="none" stroke="red" stroke-width="4" x1="887" y1="838" x2="759.6" y2="838"/>
+	<path fill="none" stroke="red" stroke-width="4" d="M414.7,50.2 Q488.7,576.3,562.7,576.3 T710.7,50.2"/>
+</g>
+</svg>

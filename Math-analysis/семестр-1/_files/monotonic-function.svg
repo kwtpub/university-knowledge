@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" width="600px" height="600px" viewBox="0 0 150 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="a" overflow="visible" orient="auto">
+      <path transform="scale(.4) translate(10)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+    </marker>
+    <marker id="b" overflow="visible" orient="auto">
+      <path transform="scale(.4) rotate(180) translate(10)" d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" stroke="#000" stroke-width="1pt"/>
+    </marker>
+  </defs>
+  <path d="m6.1747 10.38 v134.36h134.6" fill="none" stroke="#000" marker-end="url(#b)" marker-start="url(#a)"/>
+  <path d="M6.1747 144.9015 v-120 M6.0132 144.74 h120" fill="none" stroke="#000" stroke-width="4.4" stroke-dasharray=".323,31.877"/>
+  <g transform="translate(0 -.36)" fill="none" stroke="#000" stroke-opacity=".5" stroke-width=".6">
+    <path d="m38.475 15.39v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m38.475 47.55v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m38.475 79.71v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m38.475 111.9v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m70.636 15.39v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m70.636 47.55v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m70.636 79.71v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m70.636 111.9v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m102.8 15.39 v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m102.8 47.55 v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m102.8 79.71 v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m102.8 111.9 v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m134.96 15.39v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m134.96 47.55v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m134.96 79.71v1.8428m-0.92139-0.92135h1.8428"/>
+    <path d="m134.96 111.9v1.8428m-0.92139-0.92135h1.8428"/>
+  </g>
+    <path d="m38.361 144.74c51.458-6.4322 39.347-50.05 64.322-64.322 45.025-25.729 57.89-77.186 64.322-115.78" fill="none" stroke="#f00" stroke-width=".6381"/>
+    <g font-family="Sans" font-size="10">
+      <text x="143.51" y="148">x</text>
+      <text x="1.82" y="9.11">y</text>
+      <text x="73.19" y="139.21" fill="#f00">f(x)</text>
+    </g>
+</svg>

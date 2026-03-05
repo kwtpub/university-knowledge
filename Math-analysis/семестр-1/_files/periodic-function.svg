@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="747.09"
+   height="275">
+  <path
+     d="M 402.394,163.477 C 454.104,131.549 511.498,104.84 543.792,95.8915 C 578.166,86.3667 604.189,87.6515 622.346,105.322 C 634.698,117.344 638.771,133.221 642.341,163.477 M 162.447,163.477 C 214.156,131.549 271.551,104.84 303.845,95.8915 C 338.219,86.3667 364.242,87.6515 382.399,105.322 C 394.751,117.344 398.824,133.221 402.394,163.477 M 642.341,163.477 C 694.051,131.549 751.445,104.84 783.739,95.8915 C 818.113,86.3667 844.136,87.6515 862.293,105.322 C 874.645,117.344 878.718,133.221 882.289,163.477 M -77.5,163.477 C -25.7907,131.549 31.6034,104.84 63.8974,95.8915 C 98.2717,86.3667 124.295,87.6515 142.452,105.322 C 154.804,117.344 158.877,133.221 162.447,163.477"
+     style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#5268e9;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="M 222.375,5.46875 L 220.938,9.4375 L 209.125,41.5312 C 212.687,38.9746 216.786,37.5597 220.938,37.2812 L 220.938,226.688 L 2.46875,228 L 2.5,231 L 220.938,229.688 L 220.938,273.5 L 223.938,273.5 L 223.938,229.656 L 713,226.688 C 712.745,230.812 711.349,234.882 708.812,238.375 L 744.781,224.875 L 708.656,211.844 C 711.248,215.407 712.674,219.517 712.969,223.688 L 223.938,226.656 L 223.938,37.2812 C 228.08,37.5524 232.13,38.9599 235.625,41.5312 L 223.938,9.71875 L 223.938,9.4375 L 223.844,9.4375 L 222.375,5.46875 z"
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="M 418,189 L 402.25,193.5 L 400,193.5 L 400,194.156 L 397,195 L 400,195.844 L 400,196.5 L 402.25,196.5 L 418,201 L 413.5,196.5 L 626.5,196.5 L 622,201 L 637.75,196.5 L 640,196.5 L 640,195.844 L 643,195 L 640,194.156 L 640,193.5 L 637.75,193.5 L 622,189 L 626.5,193.5 L 413.5,193.5 L 418,189 z"
+     style="fill:#e70000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-size:48px;font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"><tspan
+       x="517.97968"
+       y="181.06091"
+       id="tspan5300">P</tspan>
+    <tspan
+       x="240.18773"
+       y="44.690319"
+       id="tspan2516">f(x)</tspan>
+    <tspan
+       x="682.55334"
+       y="265.90863"
+       id="tspan2520">x</tspan>
+  </text>
+</svg>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"  standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="912" height="1000" viewBox="67 0 920 1000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<desc>Produced by GNUPLOT 4.2 patchlevel 6</desc>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,892.0 L937.2,892.0 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,892.0 L190.1,892.0 M937.2,892.0 L910.2,892.0 '/>
+	<text transform="translate(138.0,905.5)" style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan>-8</tspan>
+	</text>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,786.8 L937.2,786.8 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,786.8 L190.1,786.8 M937.2,786.8 L910.2,786.8 '/>
+<g transform="translate(138.0,800.3)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan>-6</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,681.5 L937.2,681.5 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,681.5 L190.1,681.5 M937.2,681.5 L910.2,681.5 '/>
+<g transform="translate(138.0,695.0)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan>-4</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,576.3 L937.2,576.3 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,576.3 L190.1,576.3 M937.2,576.3 L910.2,576.3 '/>
+<g transform="translate(138.0,589.8)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan>-2</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,471.1 L937.2,471.1 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,471.1 L190.1,471.1 M937.2,471.1 L910.2,471.1 '/>
+<g transform="translate(138.0,484.6)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan> 0</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,365.9 L937.2,365.9 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,365.9 L190.1,365.9 M937.2,365.9 L910.2,365.9 '/>
+<g transform="translate(138.0,379.4)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan> 2</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,260.6 L937.2,260.6 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,260.6 L190.1,260.6 M937.2,260.6 L910.2,260.6 '/>
+<g transform="translate(138.0,274.1)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan> 4</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,155.4 L937.2,155.4 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,155.4 L190.1,155.4 M937.2,155.4 L910.2,155.4 '/>
+<g transform="translate(138.0,168.9)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan> 6</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,50.2 L937.2,50.2 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,50.2 L190.1,50.2 M937.2,50.2 L910.2,50.2 '/>
+<g transform="translate(138.0,63.7)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan> 8</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,892.0 L163.1,50.2 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,892.0 L163.1,865.0 M163.1,50.2 L163.1,77.2 '/>
+<g transform="translate(163.1,959.5)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan>-8</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M259.9,892.0 L259.9,50.2 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M259.9,892.0 L259.9,865.0 M259.9,50.2 L259.9,77.2 '/>
+<g transform="translate(259.9,959.5)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan>-6</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M356.6,892.0 L356.6,50.2 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M356.6,892.0 L356.6,865.0 M356.6,50.2 L356.6,77.2 '/>
+<g transform="translate(356.6,959.5)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan>-4</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M453.4,892.0 L453.4,50.2 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M453.4,892.0 L453.4,865.0 M453.4,50.2 L453.4,77.2 '/>
+<g transform="translate(453.4,959.5)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan>-2</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M550.2,892.0 L550.2,50.2 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M550.2,892.0 L550.2,865.0 M550.2,50.2 L550.2,77.2 '/>
+<g transform="translate(550.2,959.5)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan> 0</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M646.9,892.0 L646.9,50.2 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M646.9,892.0 L646.9,865.0 M646.9,50.2 L646.9,77.2 '/>
+<g transform="translate(646.9,959.5)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan> 2</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M743.7,892.0 L743.7,865.0 M743.7,811.0 L743.7,50.2 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M743.7,892.0 L743.7,865.0 M743.7,50.2 L743.7,77.2 '/>
+<g transform="translate(743.7,959.5)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan> 4</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M840.4,892.0 L840.4,865.0 M840.4,811.0 L840.4,50.2 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M840.4,892.0 L840.4,865.0 M840.4,50.2 L840.4,77.2 '/>
+<g transform="translate(840.4,959.5)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan> 6</tspan>
+	</text>
+</g>
+<path style="fill:none; color:gray; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M937.2,892.0 L937.2,50.2 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M937.2,892.0 L937.2,865.0 M937.2,50.2 L937.2,77.2 '/>
+<g transform="translate(937.2,959.5)">
+	<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan> 8</tspan>
+	</text>
+</g>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:2.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,471.1 L937.2,471.1 M550.2,892.0 L550.2,50.2 '/>
+<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,50.2 L163.1,892.0 L937.2,892.0 L937.2,50.2 L163.1,50.2 Z '/>
+<g style="fill:none; color:black; stroke:currentColor; stroke-width:4.00; stroke-linecap:butt; stroke-linejoin:miter">
+	<g transform="translate(734.5,851.5)">
+		<text style="stroke:none; fill:black; font-family:Nimbus Roman No9 L, Times, serif; font-size:36.00pt; text-anchor:end"><tspan>x³</tspan>
+		</text>
+	</g>
+</g>
+<g style="fill:none; color:red; stroke:currentColor; stroke-width:4.00; stroke-linecap:butt; stroke-linejoin:miter">
+	<path  d='M759.6,838.0 L887.0,838.0 M453.4,892.0 C517.8738,50.2,582.4262,892.0,646.9,50.2'/>
+	<path style="fill:none; color:black; stroke:currentColor; stroke-width:1.00; stroke-linecap:butt; stroke-linejoin:miter" d='M163.1,50.2 L163.1,892.0 L937.2,892.0 L937.2,50.2 L163.1,50.2 Z '/>
+</g>
+</svg>

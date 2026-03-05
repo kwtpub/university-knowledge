@@ -1,0 +1,7 @@
+export var STATUS;
+(function (STATUS) {
+    STATUS["GOOD"] = "\u0425\u041E\u0420\u041E\u0428\u041E";
+    STATUS["AVERAGE"] = "\u0421\u0420\u0415\u0414\u041D\u0415";
+    STATUS["BAD"] = "\u041F\u041B\u041E\u0425\u041E";
+    STATUS["NONE"] = "\u041D\u0418\u041A\u0410\u041A";
+})(STATUS || (STATUS = {}));

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300" height="50" xmlns="http://www.w3.org/2000/svg">
+    <!-- Does this meet your eyes, beholder? -->
+    <style>
+        /* Document */
+        svg{
+            background-color: black;
+            border: 2px solid rgb(150, 150, 150);
+        }
+
+        /* Lines */
+        line{
+            stroke: rgb(150, 150, 150);
+            stroke-width: 2px;
+        }
+
+        /* Texts */
+        text{
+            /* Font properties */
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-weight: bold;
+
+            /* Text color */
+            fill: rgb(150, 150, 150);
+        }
+
+        /* Infinity symbols */
+        .infinity{
+            font-size: 18px;
+        }
+
+        /* Other text */
+        .other_txt{
+            font-size: 15px;
+        }
+
+        /* Blue texts */
+        .blue_txt{
+            fill: rgb(0, 140, 200);
+            font-size: 16px;
+        }
+
+        /* Number text */
+        .number_txt{
+            font-size: 12px;
+        }
+
+        /* --- RED -- */
+        .red_txt{
+            fill: rgb(240, 80, 80);
+            font-size: 16px;
+        }
+
+        #red_line{
+            stroke: rgb(240, 80, 80);
+        }
+
+        /* Arrows */
+        .arrow{
+            fill: rgb(150, 150, 150);
+        }
+
+        /* BLUE */
+        .blue_txt{
+            fill: rgb(0, 140, 200);
+        }
+
+        #blue_line{
+            stroke: rgb(0, 140, 200);
+        }
+    </style>
+
+    <!-- Background -->
+    <rect width="300" height="50"/>
+
+    <!-- Number line -->
+    <line x1="23" y1="25" x2="277" y2="25"/>
+
+    <!-- ARROWS -->
+
+    <!-- Leftward arrow -->
+    <polygon class="arrow" points="20 25 30 21 27 25 30 29"/>
+
+    <!-- Rightward arrow -->
+    <polygon class="arrow" points="280 25 270 21 273 25 270 29"/>
+
+    <!-- NEGATIVE INFINITY -->
+
+    <!-- Minus sign and infnity symbol -->
+    <text class="other_txt" x="12" y="40">-</text>
+    <text class="infinity" x="18" y="41">&#8734;</text>
+
+    <!-- ZERO -->
+
+    <!-- Vertical line and number zero -->
+    <line x1="150" y1="17" x2="150" y2="33"/>
+    <text class="number_txt" x="146" y="44">0</text>
+
+    <!-- POSITIVE INFINITY -->
+
+    <!-- Plus sign and infinity symbol -->
+    <text class="other_txt" x="258" y="41">+</text>
+    <text class="infinity" x="268" y="41">&#8734;</text>
+
+    <!-- POSITIVE INTERVAL -->
+
+    <!-- Opening and closing interval signs -->
+    <text class="red_txt" x="172" y="28">[</text>
+    <text class="red_txt" x="205" y="28">]</text>
+
+    <!-- Red interval line -->
+    <line id="red_line" x1="173" y1="25" x2="209" y2="25"/>
+
+    <!-- A and B -->
+    <text class="red_txt" x="172" y="44">a</text>
+    <text class="red_txt" x="206" y="44">b</text>
+
+    <!-- NEGATIVE INTERVAL -->
+
+    <!-- Closing and opening interval signs -->
+    <text class="blue_txt" x="123" y="28">]</text>
+    <text class="blue_txt" x="90" y="28">[</text>
+
+    <!-- Blue interval line -->
+    <line id="blue_line" x1="92" y1="25" x2="127" y2="25"/>
+
+    <!-- -A and -B -->
+    <text class="blue_txt" x="116" y="44">-a</text>
+    <text class="blue_txt" x="86" y="44">-b</text>
+</svg>

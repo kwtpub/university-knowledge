@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="700" height="240" viewBox="0 0 700 240" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .axis { stroke: #222; stroke-width: 2; }
+    .set { stroke: #1f77b4; stroke-width: 6; }
+    .set-open { fill: #ffffff; stroke: #1f77b4; stroke-width: 3; }
+    .set-closed { fill: #1f77b4; stroke: #1f77b4; stroke-width: 3; }
+    .nbhd { stroke: #ff7f0e; stroke-width: 5; stroke-dasharray: 6 4; }
+    .nbhd-open { fill: #ffffff; stroke: #ff7f0e; stroke-width: 3; }
+    .point { fill: #222; }
+    text { font-family: Arial, sans-serif; fill: #222; font-size: 14px; }
+    .title { font-size: 16px; font-weight: bold; }
+    .label { font-size: 13px; }
+  </style>
+
+  <rect width="700" height="240" fill="#ffffff"/>
+
+  <!-- Open set -->
+  <text class="title" x="20" y="25">Open set A (definition via neighborhoods)</text>
+  <line class="axis" x1="60" y1="70" x2="640" y2="70"/>
+  <line class="set" x1="200" y1="70" x2="500" y2="70"/>
+  <circle class="set-open" cx="200" cy="70" r="6"/>
+  <circle class="set-open" cx="500" cy="70" r="6"/>
+
+  <line class="nbhd" x1="320" y1="70" x2="380" y2="70"/>
+  <circle class="nbhd-open" cx="320" cy="70" r="5"/>
+  <circle class="nbhd-open" cx="380" cy="70" r="5"/>
+
+  <circle class="point" cx="350" cy="70" r="4"/>
+  <text class="label" x="346" y="92">x</text>
+  <text class="label" x="300" y="50">U_eps(x) subseteq A</text>
+  <text class="label" x="470" y="92">A</text>
+
+  <!-- Closed set -->
+  <text class="title" x="20" y="135">Closed set F (complement is open)</text>
+  <line class="axis" x1="60" y1="170" x2="640" y2="170"/>
+  <line class="set" x1="220" y1="170" x2="480" y2="170"/>
+  <circle class="set-closed" cx="220" cy="170" r="6"/>
+  <circle class="set-closed" cx="480" cy="170" r="6"/>
+
+  <line class="nbhd" x1="540" y1="170" x2="600" y2="170"/>
+  <circle class="nbhd-open" cx="540" cy="170" r="5"/>
+  <circle class="nbhd-open" cx="600" cy="170" r="5"/>
+
+  <circle class="point" cx="570" cy="170" r="4"/>
+  <text class="label" x="566" y="192">y</text>
+  <text class="label" x="470" y="150">U_eps(y) subseteq X\\F</text>
+  <text class="label" x="450" y="192">F</text>
+</svg>
