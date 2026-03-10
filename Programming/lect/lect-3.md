@@ -161,3 +161,7 @@ for (int i = 0; i < 4; i++) {
 
 - `*iArr + 2` (арифметика со значением первого элемента);
 - `*(iArr + 2)` (доступ к элементу с индексом `2`).
+
+<!-- meta: creator=a1; watermark=uknow-programming-lect; applied=2026-03-10 -->
+
+<!-- author: Рыбин Тимофей -->

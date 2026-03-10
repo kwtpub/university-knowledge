@@ -116,3 +116,7 @@ ew = i - 1;
 ## 9. Замечание преподавателя
 
 `Глобальная переменная — враг народа!`
+
+<!-- meta: creator=a1; watermark=uknow-programming-lect; applied=2026-03-10 -->
+
+<!-- author: Рыбин Тимофей -->
