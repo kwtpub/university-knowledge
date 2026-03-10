@@ -33,7 +33,7 @@ int main()
     // const char* inputPath = "tests/input6.txt"; // Тест 6 (ошибка): файл пустой.
     // const char* inputPath = "tests/input7.txt"; // Тест 7 (ошибка): есть символ, но нет строк.
     // const char* inputPath = "tests/input8.txt"; // Тест 8 (ошибка): есть символ и одна строка, вторая отсутствует.
-    // const char* inputPath = "tests/input9.txt"; // Тест 9 (ошибка): файл не существует.
+    const char* inputPath = "tests/input9.txt"; // Тест 9 (ошибка): файл не существует.
 
     // Файл и входные данные
     ifstream fin;                               // поток для чтения входного файла
@@ -135,7 +135,7 @@ int main()
     while (true) {
         // Пропускаем пробелы
         while (firstLine[pos1] != '\0' && firstLine[pos1] == ' ') {
-            ++pos1;
+            pos1++;
         }
         if (firstLine[pos1] == '\0') {
             break;
@@ -146,21 +146,21 @@ int main()
         while (firstLine[pos1] != '\0' && firstLine[pos1] != ' ') {
             if (wi < MAX_WORD_LEN - 1) {
                 word[wi] = firstLine[pos1];
-                ++wi;
+                wi++;
             }
-            ++pos1;
+            pos1++;
         }
         word[wi] = '\0';
 
         // Проверяем, не выводили ли это слово уже
         alreadyPrinted = false;
-        for (i = 0; i < printedCount; ++i) {
+        for (i = 0; i < printedCount; i++) {
             ci = 0;
             while (word[ci] != '\0' && printedWords[i][ci] != '\0') {
                 if (word[ci] != printedWords[i][ci]) {
                     break;
                 }
-                ++ci;
+                ci++;
             }
             if (word[ci] == printedWords[i][ci]) {
                 alreadyPrinted = true;
@@ -177,7 +177,7 @@ int main()
 
         while (true) {
             while (secondLine[pos2] != '\0' && secondLine[pos2] == ' ') {
-                ++pos2;
+                pos2++;
             }
             if (secondLine[pos2] == '\0') {
                 break;
@@ -187,9 +187,9 @@ int main()
             while (secondLine[pos2] != '\0' && secondLine[pos2] != ' ') {
                 if (wi < MAX_WORD_LEN - 1) {
                     word2[wi] = secondLine[pos2];
-                    ++wi;
+                    wi++;
                 }
-                ++pos2;
+                pos2++;
             }
             word2[wi] = '\0';
 
@@ -199,7 +199,7 @@ int main()
                 if (word[ci] != word2[ci]) {
                     break;
                 }
-                ++ci;
+                ci++;
             }
             if (word[ci] == word2[ci]) {
                 foundInSecond = true;
@@ -216,10 +216,10 @@ int main()
                 ci = 0;
                 while (word[ci] != '\0' && ci < MAX_WORD_LEN - 1) {
                     printedWords[printedCount][ci] = word[ci];
-                    ++ci;
+                    ci++;
                 }
                 printedWords[printedCount][ci] = '\0';
-                ++printedCount;
+                printedCount++;
             }
         }
     }
@@ -240,17 +240,17 @@ int main()
     i = 0;
     while (firstLine[i] != '\0') {
         if (firstLine[i] == symbol) {
-            ++firstCount;
+            firstCount++;
         }
-        ++i;
+        i++;
     }
 
     i = 0;
     while (secondLine[i] != '\0') {
         if (secondLine[i] == symbol) {
-            ++secondCount;
+            secondCount++;
         }
-        ++i;
+        i++;
     }
 
     if (firstCount > secondCount) {
