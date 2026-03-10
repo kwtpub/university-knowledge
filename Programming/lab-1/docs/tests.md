@@ -107,7 +107,7 @@ hello world
 
 ```
 a
-cat dog sky cat
+ky cat
 dog sun cat
 ```
 
@@ -144,7 +144,7 @@ dog
 
 ```
 x
-alpha beta gamma
+a gamma 
 delta epsilon zeta xylophone
 ```
 
@@ -152,7 +152,7 @@ delta epsilon zeta xylophone
 
 ```
 Символ: x
-Первая строка: alpha beta gamma
+Первая строка: a gamma
 Вторая строка: delta epsilon zeta xylophone
 
 Слова, встречающиеся в обеих строках:
